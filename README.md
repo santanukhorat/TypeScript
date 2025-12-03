@@ -1,2 +1,2 @@
 # TypeScript
-Chai or TypeScript
+Chai aur TypeScript
